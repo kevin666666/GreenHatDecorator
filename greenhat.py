@@ -1,7 +1,7 @@
 import subprocess
 import time, datetime
 
-# returns a date string for the date that is N days before STARTDATE
+
 def get_date_string(date_str):     
     fmt = '%Y-%m-%d'
     time_tuple = time.strptime(date_str, fmt)

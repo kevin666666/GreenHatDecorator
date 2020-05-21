@@ -1,5 +1,7 @@
 # GreenHatDecorator
 
+感谢大佬 angusshire https://github.com/angusshire/greenhat 给我的灵感
+
 这是一个用来装饰你的contribution table 的一个小工具。现在你可以随心所欲在contribution table上创建你想要的图案。
 即便你搞砸了一切，也没关系，只需要删掉相应的repository就可以恢复如初。
 
