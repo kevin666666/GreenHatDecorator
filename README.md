@@ -39,7 +39,8 @@
 
 ![1-6](./img/1-6.PNG)
 
-打开py文件进行设置，你只需要更改前三个选项第一个是date.txt的路径，第二个是需不需要初始化repository，第三个是初始化repository需要的git路径，
+打开py文件进行设置，你只需要更改前三个选项第一个是date.txt的路径，第二个是需不需要初始化repository，第三个是初始化repository需要的git路径。
+所谓的初始化，就是创建新的repository的时候什么都不创建，然后直接在本地把项目推到repository里，这样做的好处是，我可以直接把创建该repository的时间也改掉。
 如果你不需要初始化，则改is_init为false：
 
 ![1-3](./img/1-3.PNG)
